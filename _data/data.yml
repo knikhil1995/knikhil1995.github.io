@@ -92,7 +92,7 @@ experiences:
         time: 20 May 2015 - 8 July 2015
         company: Department of Condensed Matter Physics, SNBNCBS, Kolkata
         details: |
-          During my work here, I performed DFT calculations on Perovskite compounds, namely SrTiO$_3$ (Spin polarised GGA), LaAlO$_3$ (Spin-polarized GGA), GdTiO$_3$ (Spin-polarized GGA+U) and SmTiO$_3$ (noncolinear GGA+U with SO coupling). These calculations aimed to find a reasonable estimate for the DOS and bandgap for the bulk materials so that the parameters used in these calculations could be used for supercell calculations for understanding 2DEG formation at perovskite interfaces.
+          During my work here, I performed DFT calculations on Perovskite compounds, namely SrTiO$_3$ (Spin polarised GGA), LaAlO_3 (Spin-polarized GGA), GdTiO_3(Spin-polarized GGA+U) and SmTiO<sub>3</sub> (noncolinear GGA+U with SO coupling). These calculations aimed to find a reasonable estimate for the DOS and bandgap for the bulk materials so that the parameters used in these calculations could be used for supercell calculations for understanding 2DEG formation at perovskite interfaces.
 projects:
     title: Teaching Experience
     intro: 
