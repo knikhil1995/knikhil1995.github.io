@@ -100,14 +100,12 @@ experiences:
         details: 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
-      - title: Velocity
-        link: 
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: HiWi
+        time: 2017 - 2018
+        company: Institute for Computational Physics, University of Stuttgart
+        details: "I was responsible for performing structural optimization and energy calculations for NV centers in diamond slabs and their interactions with nucleobases using DFT."
 
       - title: DevStudio
         link: "#"
