@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://sites.google.com/view/matrix-lab/research'>MATRIX Lab,</a>,<br>
+subtitle: <a href='https://sites.google.com/view/matrix-lab/research'>MATRIX Lab</a>,<br>
           <a href='https://cds.iisc.ac.in'>Department of Computational and Data Sciences</a>,<br>
           <a href='https://iisc.ac.in'>Indian Institute of Science</a>
 
