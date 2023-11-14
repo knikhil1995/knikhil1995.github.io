@@ -5,7 +5,7 @@ permalink: /projects/
 description: Projects I am currently working on and planned projects for the future.
 nav: true
 nav_order: 2
-display_categories: [Ongoing work, Future work]
+display_categories: [Computational Method Development, Novel Applications]
 horizontal: false
 ---
 

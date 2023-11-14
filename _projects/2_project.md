@@ -3,7 +3,7 @@ layout: page
 title: Non-Collinear Magnetism and SOC
 description: a scalable finite-element framework for ab-initio modelling of Non-Collinear Magnetism and Spin-Orbit Coupling in pseudopotential DFT
 importance: 2
-category: Ongoing work
+category: Computational Method Development
 collaborators: Dr. Phani Motamarri
 related_publications: theurich_self-consistent_2001, hamann_optimized_2013, motamarri_configurational_2018
 

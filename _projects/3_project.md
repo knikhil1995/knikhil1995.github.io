@@ -4,7 +4,7 @@ title: Platinum Clustering
 description: Influence of excess charge on Platinum Clustering on graphene substrate
 img: assets/img/pthollow.png
 importance: 3
-category: Ongoing work
+category: Novel Applications
 related_publications: caldeweyher_extension_2017,caldeweyher_generally_2019
 collaborators: Srinibas Nandi, Dr. Satadeep Bhattacharjee, Dr. Phani Motamarri
 

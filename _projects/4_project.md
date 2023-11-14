@@ -4,7 +4,7 @@ title: GW methods
 description: Scalable finite-element based methodologies for DFT+GW methods.
 img:
 importance: 3
-category: Future work
+category: Computational Method Development
 related_publications: hedin_new_1965
 collaborators: Dr. Phani Motamarri
 ---

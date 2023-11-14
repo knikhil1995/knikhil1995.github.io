@@ -4,7 +4,7 @@ title: Matrix-Free Algorithms
 description: for Higher-Order Finite-Element Discretized Matrix Multivector Products
 img: assets/img/CPUEO.jpg
 importance: 1
-category: Ongoing work
+category: Computational Method Development
 related_publications: panigrahi_fast_2023
 collaborators: Gourab Panigrahi, Debashis Panda, Dr. Phani Motamarri
 
