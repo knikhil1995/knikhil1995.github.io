@@ -7,6 +7,7 @@ importance: 2
 category: Computational Method Development
 related_publications: true
 ---
+
 collaborators: Dr. Phani Motamarri
 
 {% cite kodali2024finiteelementmethodsnoncollinearmagnetism %}
