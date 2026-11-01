@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research projects from my PhD on methods and applications of large-scale relativistic DFT.
 nav: true
 nav_order: 3
 display_categories: [Computational Method Development, Novel Applications]

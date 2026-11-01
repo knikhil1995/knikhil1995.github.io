@@ -1,3 +1,23 @@
 metadata:
-  last_updated: null
-papers: {}
+  last_updated: '2026-10-07'
+papers:
+  f-90BnQAAAAJ:u-x6o8ySG0sC:
+    citations: 38
+    title: Short-range atomic ordering in nonequilibrium silicon-germanium-tin semiconductors
+    year: '2017'
+  f-90BnQAAAAJ:2osOgNQ5qMEC:
+    citations: 8
+    title: Fast hardware-aware matrix-free algorithms for higher-order finite-element discretized matrix multivector products on distributed systems
+    year: '2024'
+  f-90BnQAAAAJ:Y0pCki6q_DkC:
+    citations: 7
+    title: Residual-based Chebyshev filtered subspace iteration for Hermitian eigenvalue problems tolerant to inexact matrix-vector products
+    year: '2026'
+  f-90BnQAAAAJ:IjCSPb-OGe4C:
+    citations: 3
+    title: Finite-element methods for noncollinear magnetism and spin-orbit coupling in real-space pseudopotential density functional theory
+    year: '2025'
+  f-90BnQAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: Towards exascale fully relativistic pseudopotential density functional theory calculations enabled by mixed-precision computation and compressed-communication using residual based subspace iteration
+    year: '2026'
