@@ -3,7 +3,7 @@ layout: page
 title: Matrix-Free Algorithms
 description: for higher-order finite-element discretized matrix-multivector products
 img: assets/img/CPUEO.jpg
-importance: 5
+importance: 7
 category: Computational Method Development
 related_publications: true
 ---

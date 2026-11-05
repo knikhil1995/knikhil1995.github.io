@@ -3,7 +3,7 @@ layout: page
 title: Exascale Relativistic DFT
 description: GPU-centric mixed-precision computation and compressed communication for fully relativistic finite-element DFT
 img: assets/img/projects/bfp-communication.png
-importance: 3
+importance: 5
 category: Computational Method Development
 related_publications: true
 ---

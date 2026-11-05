@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects from my PhD on methods and applications of large-scale relativistic DFT.
+description: Research projects on methods and applications of large-scale relativistic DFT (from my PhD) and on quantum-computing methods for strongly correlated molecules.
 nav: true
 nav_order: 3
-display_categories: [Computational Method Development, Novel Applications]
+display_categories: [Quantum Computing for Chemistry, Computational Method Development, Novel Applications]
 horizontal: false
 ---
 

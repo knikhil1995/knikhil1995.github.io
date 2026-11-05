@@ -3,7 +3,7 @@ layout: page
 title: Adaptive-Coordinate Finite Elements
 description: moving the finite-element mesh toward the atoms to reduce the cost of real-space DFT
 img: assets/img/projects/adaptive-mesh.png
-importance: 4
+importance: 6
 category: Computational Method Development
 related_publications: false
 ---
