@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects on methods and applications of large-scale relativistic DFT (from my PhD) and on quantum-computing methods for strongly correlated molecules.
+description: Research projects from my Ph.D. on large-scale relativistic density functional theory, and more recent work on GPU eigensolvers and quantum computing for strongly correlated molecules.
 nav: true
 nav_order: 3
 display_categories: [Quantum Computing for Chemistry, Computational Method Development, Novel Applications]

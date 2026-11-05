@@ -14,13 +14,13 @@ collaborators: Prof. Phani Motamarri
 
 Spintronic memory, skyrmionic logic and topological quantum devices all rely on materials where electron spins point in varying directions (noncollinear magnetism) and are coupled to their orbital motion (spin-orbit coupling, SOC). Simulating these effects from first principles requires two-component spinor wavefunctions and spin-dependent Hamiltonians, which makes such calculations considerably more expensive than conventional density functional theory (DFT).
 
-In this project we established a local real-space formulation of noncollinear, spin-orbit-coupled DFT within a finite-element (FE) discretization using fully relativistic optimized norm-conserving Vanderbilt (ONCV) pseudopotentials. Key ingredients include:
+We established a local real-space formulation of noncollinear, spin-orbit-coupled DFT within a finite-element (FE) discretization, using fully relativistic optimized norm-conserving Vanderbilt (ONCV) pseudopotentials. Its key ingredients are:
 
 - a local reformulation of DFT electrostatics that leads to FE-discretized governing equations for two-component spinors;
 - the locally collinear treatment of exchange-correlation, together with regularization strategies that keep GGA functionals well-behaved in regions of vanishing magnetization;
 - a unified configurational-force framework, built on a generalized energy functional, that delivers atomic forces and periodic unit-cell stresses for structural relaxation, cell optimization and comparison of competing magnetic configurations.
 
-The methods are implemented in the open-source [DFT-FE](https://github.com/dftfeDevelopers/dftfe) code for both CPU and GPU architectures, and have been validated against established plane-wave codes for energetics, magnetic anisotropy, band structures and spin textures.
+The methods are implemented in the open-source [DFT-FE](https://github.com/dftfeDevelopers/dftfe) code for CPUs and GPUs and have been validated against established plane-wave codes for energetics, magnetic anisotropy, band structures and spin textures. For large semi-periodic and non-periodic systems, the finite-element approach significantly outperforms widely used plane-wave codes in minimum wall time on CPUs, and it shows a further computational advantage on GPUs. This framework is the starting point for the [R-ChFSI eigensolver]({{ '/projects/rchfsi/' | relative_url }}) and our [exascale DFT work]({{ '/projects/exascale-dft/' | relative_url }}).
 
 <div style="max-width: 760px; margin: 1rem auto 0;">
     <div>

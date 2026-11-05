@@ -22,7 +22,7 @@ The framework combines:
 - block floating-point (BFP) compression of the nearest-neighbour halo data exchanged between MPI ranks;
 - communication-efficient band parallelization and a distributed blockwise Rayleigh-Ritz procedure.
 
-Together these techniques make systematically convergent, fully relativistic DFT calculations on systems with tens of thousands of electrons practical on leadership-class machines such as Aurora and Frontier. This work has been accepted at SC26.
+Compared with double-precision filtering and uncompressed communication, these techniques substantially reduce both computation and data movement while preserving double-precision accuracy, and the framework shows strong scaling on Aurora and Frontier. Together they make systematically convergent, fully relativistic DFT calculations on systems with tens of thousands of electrons practical on leadership-class supercomputers. At the largest scales, dense subspace operations become the dominant cost, which motivates our [HEXA dense eigensolver]({{ '/projects/hexa-eigensolver/' | relative_url }}).
 
 <div style="max-width: 720px; margin: 1rem auto 0;">
     <div>

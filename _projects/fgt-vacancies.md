@@ -14,7 +14,7 @@ _Manuscript in preparation._
 
 Fe<sub>3</sub>GeTe<sub>2</sub> is a layered van der Waals ferromagnet that remains magnetic down to a single layer, making it a leading candidate for two-dimensional spintronics. Its magnetic properties are known to be sensitive to Fe deficiency, but a microscopic picture of how individual vacancies reshape the local magnetism has been missing. Answering this question requires large supercells together with a fully relativistic, noncollinear treatment of magnetism, a combination that has been computationally out of reach.
 
-Using the methods developed in this thesis, we carried out large-scale, fully relativistic noncollinear DFT calculations of Fe vacancies in monolayer Fe<sub>3</sub>GeTe<sub>2</sub>. We study:
+Using the [noncollinear finite-element DFT]({{ '/projects/2_project/' | relative_url }}) and [GPU algorithms]({{ '/projects/exascale-dft/' | relative_url }}) developed during my Ph.D., we carry out large-scale, fully relativistic noncollinear DFT calculations of Fe vacancies in monolayer Fe<sub>3</sub>GeTe<sub>2</sub>. We examine:
 
 - which of the two inequivalent Fe sublattices vacancies prefer to form on;
 - how a vacancy reconstructs the magnetic moments of the surrounding Fe atoms and how far this disturbance extends;

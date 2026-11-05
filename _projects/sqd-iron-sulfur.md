@@ -21,7 +21,7 @@ This project improves each stage of that pipeline with one question in mind: wha
 - getting more accuracy out of the sampled configurations on the classical side;
 - classical baselines at the same subspace size, so that the contribution of the quantum computer is measured fairly.
 
-We test these ideas on [4Fe-4S] (54 electrons in 36 orbitals, 72 qubits) on IBM Heron processors.
+We test these ideas on [4Fe-4S] (54 electrons in 36 orbitals, 72 qubits) on IBM Heron processors. Two companion projects feed into this pipeline: [randomized Krylov circuits (SqDRIFT)]({{ '/projects/sqdrift/' | relative_url }}) for generating configurations, and a faster [selected-CI eigensolver]({{ '/projects/sbd-eigensolver/' | relative_url }}) for the classical diagonalization.
 
 <div style="max-width: 640px; margin: 1rem auto 0;">
     <div>

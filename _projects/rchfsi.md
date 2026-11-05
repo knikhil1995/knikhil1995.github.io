@@ -20,7 +20,7 @@ We introduced **R-ChFSI**, which recasts the Chebyshev recurrence in terms of re
 - carry out filtering in low-precision arithmetic (FP32/TF32) on modern GPUs while still reaching tight double-precision tolerances;
 - tolerate reduced-precision (BF16) inter-process communication in distributed sparse matrix-vector products.
 
-R-ChFSI is the mathematical foundation for the mixed-precision and compressed-communication strategies used in our [exascale DFT work]({{ '/projects/exascale-dft/' | relative_url }}).
+On large finite-element DFT eigenproblems, R-ChFSI reaches residuals orders of magnitude below those of standard ChFSI when approximate inverses are used, and it meets tight target tolerances even in reduced precision, which makes its filtering substantially faster on GPUs than standard double-precision ChFSI. It is the mathematical foundation for the mixed-precision and compressed-communication strategies in our [exascale DFT work]({{ '/projects/exascale-dft/' | relative_url }}), and its idea of doing most of the work with inexpensive, inexact products carries over to our [selected-CI eigensolver]({{ '/projects/sbd-eigensolver/' | relative_url }}).
 
 <div style="max-width: 480px; margin: 1rem auto 0;">
     <div>
