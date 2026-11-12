@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Nikhil Kodali",
-    "label": "PhD Scholar",
+    "label": "National Quantum Mission Postdoctoral Fellow",
     "image": "",
     "email": "nikhilkodali@iisc.ac.in",
     "phone": "+919967686626",
     "url": "https://knikhil1995.github.io",
-    "summary": "",
+    "summary": "Computational scientist working on relativistic electronic-structure methods, GPU eigensolvers and exascale algorithms, and quantum computing for chemistry. Principal developer of the open-source DFT-FE code.",
     "location": {
       "address": "310, CDS, Indian Institute of Science",
       "postalCode": "560012",
-      "city": "Bangalroe",
+      "city": "Bengaluru",
       "countryCode": "IN",
       "region": "Karnataka"
     },
@@ -19,10 +19,94 @@
         "network": "Linkedin",
         "username": "nikhil-kodali-72047296",
         "url": "https://www.linkedin.com/in/nikhil-kodali-72047296"
+      },
+      {
+        "network": "GitHub",
+        "username": "knikhil1995",
+        "url": "https://github.com/knikhil1995"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "f-90BnQAAAAJ",
+        "url": "https://scholar.google.com/citations?user=f-90BnQAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0001-6954-4880",
+        "url": "https://orcid.org/0000-0001-6954-4880"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Indian Institute of Science, Bengaluru",
+      "position": "National Quantum Mission Postdoctoral Fellow",
+      "location": "Bengaluru, Karnataka",
+      "url": "https://cds.iisc.ac.in",
+      "startDate": "2026-08",
+      "summary": "Department of Computational and Data Sciences. National Quantum Mission project SPAARQ (Software Platforms and Algorithms to Accelerate Research in Quantum-HPC), a consortium led by IISc with IIIT Hyderabad, IIT Kanpur and TCS Research (2026-2029).",
+      "highlights": ["Sampling-based quantum computing algorithms for strongly correlated materials, in collaboration with IBM Research"]
+    },
+    {
+      "name": "Indian Institute of Science, Bengaluru",
+      "position": "Doctoral researcher, MATRIX Lab",
+      "location": "Bengaluru, Karnataka",
+      "url": "https://sites.google.com/view/matrix-lab",
+      "startDate": "2021-08",
+      "endDate": "2026-11",
+      "summary": "Advisor: Prof. Phani Motamarri.",
+      "highlights": [
+        "Finite-element density functional theory with noncollinear magnetism and spin-orbit coupling, with forces and stresses, in the open-source DFT-FE code",
+        "R-ChFSI, an eigensolver with convergence bounds under inexact matrix-vector products",
+        "Mixed-precision, compressed-communication GPU framework: about 80,000 electrons on 9,600 GPUs of the Aurora supercomputer",
+        "HEXA, a dense Hermitian eigensolver for distributed-memory GPU systems",
+        "Fe vacancies in monolayer Fe3GeTe2, with Prof. Biplab Sanyal (Uppsala University)"
+      ]
+    },
+    {
+      "name": "Indian Institute of Science, Bengaluru",
+      "position": "Teaching Assistant",
+      "location": "Bengaluru, Karnataka",
+      "startDate": "2022",
+      "endDate": "2025",
+      "highlights": [
+        "DS 284 Numerical Linear Algebra, Department of Computational and Data Sciences (2022 and 2025)",
+        "DA 219o Quantum Computing Methods, IISc Knowledge and E-Learning Network (2023)"
+      ]
+    },
+    {
+      "name": "University of Stuttgart",
+      "position": "Research assistant (HiWi), Institute for Computational Physics",
+      "location": "Stuttgart, Germany",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "Supervised by Prof. Maria Fyta. DFT structural optimization and energy calculations for NV centres in diamond slabs and their interaction with nucleobases."
+    },
+    {
+      "name": "École Polytechnique de Montréal",
+      "position": "Research intern, Nano and Hybrid Materials Group",
+      "location": "Montréal, Canada",
+      "startDate": "2016-05",
+      "endDate": "2016-07",
+      "summary": "Supervised by Prof. Oussama Moutanabbir. DFT structural optimization and energy calculations on Si-Ge-Sn alloys, supporting the atom-probe observation of short-range order in metastable SiGeSn layers."
+    },
+    {
+      "name": "Indian Institute of Technology Bombay",
+      "position": "Teaching Assistant, PH 107 Quantum Physics and Application",
+      "location": "Mumbai, Maharashtra",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "Department of Physics (2015 and 2016)."
+    },
+    {
+      "name": "S. N. Bose National Centre for Basic Sciences, Kolkata",
+      "position": "Summer research fellow, Department of Condensed Matter Physics",
+      "location": "Kolkata, West Bengal",
+      "startDate": "2015-05",
+      "endDate": "2015-07",
+      "summary": "Supervised by Prof. Tanusree Saha-Dasgupta. DFT calculations of the density of states and band gap of bulk perovskite compounds, a first step towards understanding two-dimensional electron gas formation at perovskite interfaces."
+    }
+  ],
   "volunteer": [],
   "education": [
     {
@@ -30,10 +114,14 @@
       "location": "Bengaluru, Karnataka",
       "url": "https://www.iisc.ac.in/",
       "area": "Computational and Data Sciences",
-      "studyType": "Ph.D.",
+      "studyType": "M.Tech. (Research) and Ph.D.",
       "startDate": "2021-08",
+      "endDate": "2026-11",
       "score": "9.2/10",
-      "courses": ["Supervised by <a href=https://sites.google.com/view/matrix-lab/bio-of-the-pi>Prof. Phani Motamarri</a>"]
+      "courses": [
+        "Thesis: Finite-element methods and exascale algorithms for fully relativistic noncollinear pseudopotential density functional theory: from mathematical formulations to efficient computational realization and magnetic materials applications (defended 4 November 2026)",
+        "Supervised by <a href=https://sites.google.com/view/matrix-lab/bio-of-the-pi>Prof. Phani Motamarri</a>"
+      ]
     },
     {
       "institution": "Indian Institute of Technology, Bombay",
@@ -48,21 +136,106 @@
   ],
   "awards": [
     {
-      "title": "Junior Research FEllowship",
-      "date": "2021-08",
-      "awarder": "Council of Scientific and Industrial Research, India",
-      "summary": "Provided to bright young men and women for training in methods of research under the expert guidance of faculty members/scientists working in University Departments/Institutes of National Importance/National Laboratories and Institutes of CSIR in various fields of Science & Technology and Medical Sciences."
-    },
-    {
-      "title": "Prime Minister Research FEllowship",
+      "title": "Prime Minister's Research Fellowship",
       "date": "2023-08",
       "awarder": "Ministry of Education, Govt. of India",
       "summary": "The Prime Minister's Research Fellows (PMRF) Scheme has been designed for improving the quality of research in various higher educational institutions in the country."
+    },
+    {
+      "title": "Junior Research Fellowship",
+      "date": "2021-08",
+      "awarder": "Council of Scientific and Industrial Research, India",
+      "summary": "All-India rank 55 in Physical Sciences in the national eligibility test (2020)."
+    },
+    {
+      "title": "Gold medals, Indian National Physics Olympiad and Indian National Chemistry Olympiad",
+      "date": "2013",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Alumnus, Harry Messel International Science School (nanoscience)",
+      "date": "2013",
+      "awarder": "University of Sydney",
+      "summary": ""
+    },
+    {
+      "title": "All-India rank 75, Joint Entrance Examination (Advanced)",
+      "date": "2013",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "KVPY Fellowship",
+      "date": "2011",
+      "awarder": "Department of Science and Technology, Govt. of India",
+      "summary": "Fellow from 2011 to 2013."
     }
   ],
   "certificates": [],
-  "publications": [],
-  "skills": [],
+  "publications": [
+    {
+      "name": "Residual-based Chebyshev filtered subspace iteration for Hermitian eigenvalue problems tolerant to inexact matrix-vector products",
+      "publisher": "Computer Physics Communications 327, 110239",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1016/j.cpc.2026.110239",
+      "summary": "N. Kodali, K. Ramakrishnan, P. Motamarri"
+    },
+    {
+      "name": "Towards exascale fully relativistic pseudopotential density functional theory calculations with mixed-precision computation and compressed communication using residual-based subspace iteration",
+      "publisher": "SC26: International Conference for High Performance Computing, Networking, Storage, and Analysis (accepted)",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2605.30128",
+      "summary": "N. Kodali, G. Panigrahi, N. Gupta, S. Gourishanker, K. Ramakrishnan, R. Panch, S. Das, V. Rao, P. Motamarri"
+    },
+    {
+      "name": "Finite-element methods for noncollinear magnetism and spin-orbit coupling in real-space pseudopotential density functional theory",
+      "publisher": "Physical Review B 111, 195129",
+      "releaseDate": "2025-05",
+      "url": "https://doi.org/10.1103/PhysRevB.111.195129",
+      "summary": "N. Kodali, P. Motamarri"
+    },
+    {
+      "name": "Fast hardware-aware matrix-free algorithms for higher-order finite-element discretized matrix multivector products on distributed systems",
+      "publisher": "Journal of Parallel and Distributed Computing 192, 104925",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1016/j.jpdc.2024.104925",
+      "summary": "G. Panigrahi, N. Kodali (equal contribution), D. Panda, P. Motamarri"
+    },
+    {
+      "name": "Short-range atomic ordering in nonequilibrium silicon-germanium-tin semiconductors",
+      "publisher": "Physical Review B 95, 161402(R)",
+      "releaseDate": "2017-04",
+      "url": "https://doi.org/10.1103/PhysRevB.95.161402",
+      "summary": "S. Mukherjee, N. Kodali, D. Isheim, S. Wirths, J. M. Hartmann, D. Buca, D. N. Seidman, O. Moutanabbir"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "programming",
+      "icon": "",
+      "keywords": ["C++17", "Python"]
+    },
+    {
+      "name": "Parallel programming",
+      "level": "CPU and GPU",
+      "icon": "",
+      "keywords": ["MPI", "OpenMP", "CUDA", "HIP", "SYCL"]
+    },
+    {
+      "name": "Electronic structure",
+      "level": "codes",
+      "icon": "",
+      "keywords": ["DFT-FE", "Quantum ESPRESSO", "deal.II"]
+    },
+    {
+      "name": "Supercomputers",
+      "level": "used",
+      "icon": "",
+      "keywords": ["Aurora", "Polaris", "Frontier", "Nurion", "Hangang", "PARAM Pravega", "PARAM Siddhi-AI", "PARAM Rudra"]
+    }
+  ],
   "languages": [
     {
       "language": "English",
